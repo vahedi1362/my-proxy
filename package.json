@@ -1,0 +1,10 @@
+
+{
+  "name": "my-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy server",
+  "main": "api/proxy.js",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
